@@ -6,6 +6,7 @@ import { PLATFORM_NAME, PLUGIN_NAME } from './settings.js';
 // This is only required when using Custom Services and Characteristics not support by HomeKit
 import { EveHomeKitTypes } from 'homebridge-lib/EveHomeKitTypes';
 
+
 /**
  * HomebridgePlatform
  * This class is the main constructor for your plugin, this is where you should
